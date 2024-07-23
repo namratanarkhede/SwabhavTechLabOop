@@ -2,6 +2,7 @@ package com.aurionpro.test;
 
 //Inner classes are classes defined within another class. 
 //They can be used to logically group classes that are only used in one place, increase encapsulation, and improve readability and maintainability of the code.
+
 public class OuterClass {
     private String outerField = "Outer Class Field";
 
